@@ -206,3 +206,15 @@ https://localhost:44358/swagger/index.html
 14. **Microsoft.Extensions.Configuration.Abstractions** - Used for Key-Value abstractions.
 
 15. **Microsoft.AspNetCore.Mvc.Core** - Contains common action result types, attribute routing, application model conventions, API explorer, application parts, filters, formatters, model binding, and more.
+
+## Requirements to Contribute and Propose Changes
+
+Before participating, you must acknowledge the Contribution License Agreement (CLA).
+
+To acknowledge the CLA, follow these instructions:
+- Click [here](https://github.com/transcelerate/ddf-home/blob/main/contributing.md) to download and carefully read the CLA.
+- Print the document.
+- Complete and sign the document.
+- Scan and email a PDF version of the completed and signed document to [DDF@transceleratebiopharmainc.com](mailto:DDF@transceleratebiopharmainc.com?subject=Signed%20CLA).
+
+NOTE: Keep a copy for your records.
